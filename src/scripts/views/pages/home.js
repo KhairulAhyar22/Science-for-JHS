@@ -28,7 +28,7 @@ const Home = {
         <h2 class="title">Artikel Motivasi Belajar</h2>
         <div class="list-article">
           <article>
-            <img class="article-image"src="./images/profil/article1.jpg" alt="article 1">
+            <img class="article-image"src="./images/article/article1.jpg" alt="article 1">
             <div class="article-detail">
               <h3 class="article-title">Manfaat Ilmu Pengetahuan Bagi Kehidupan Manusia</h3>
               <p class="article-description">Ilmu pengetahuan merupakan suatu pemahaman yang didapatkan manusia melalui penelitian atau penemuan yang tersusun secara sistematis dan dapat diuji melalui metode-metode tertentu.</p>
@@ -37,7 +37,7 @@ const Home = {
           </article>
 
           <article>
-            <img class="article-image"src="./images/profil/article2.jpg" alt="article 1">
+            <img class="article-image"src="./images/article/article2.jpg" alt="article 1">
             <div class="article-detail">
               <h3 class="article-title">10 Cara Memotivasi Diri Sendiri untuk Rajin Belajar</h3>
               <p class="article-description">Bagi beberapa orang, belajar merupakan salah satu momok yang tidak mudah ditaklukkan. Ada berbagai macam alasan mengapa hal tersebut bisa terjadi.</p>
@@ -46,7 +46,7 @@ const Home = {
           </article>
 
           <article>
-            <img class="article-image"src="./images/profil/article3.png" alt="article 1">
+            <img class="article-image"src="./images/article/article3.png" alt="article 1">
             <div class="article-detail">
               <h3 class="article-title">8 Dampak Negatif Malas Belajar Bagi Diri Sendiri</h3>
               <p class="article-description">Meskipun manfaat belajar sudah terpampang jelas masih ada saja orang yang masih malas dan mengabaikan akibat malas belajar bagi diri sendiri. Lalu apakah akibat bagi orang yang malas belajar? Berikut beberapa dampak negatif jika malas belajar bagi diri sendiri maupun orang lain.</p>
@@ -97,9 +97,9 @@ const Home = {
           <div class="box-profil">
             <div class="profil">
               <div class="profil-photo">
-                <img src="../public/images/heros/hero-image_4.jpg" alt="">
+                <img src="./images/profil/mustika1.png" alt="">
               </div>
-              <h3 class="profil-name">Nurfian</h3>
+              <h3 class="profil-name">Mustika Anggraini</h3>
             </div>
             <div class="object-vertical"></div>
           </div>
@@ -108,15 +108,15 @@ const Home = {
             <table>
               <tr>
                 <td>Universitas</td>
-                <td>: Udayana</td>
+                <td>: Universitas Mataram</td>
               </tr>
               <tr>
-                <td>Alamat</td>
-                <td>: 9999</td>
+                <td>TTL</td>
+                <td>: Sumbawa Barat, 25 April 2000</td>
               </tr>
               <tr>
-                <td>Pengalaman</td>
-                <td>: Front End Development</td>
+                <td>Keahlian</td>
+                <td>: Front End Web Development</td>
               </tr>
             </table>
 
@@ -128,28 +128,28 @@ const Home = {
           <div class="box-profil">
             <div class="profil">
               <div class="profil-photo">
-                <img src="../public/images/heros/hero-image_4.jpg" alt="">
+                <img src="./images/profil/bayu1.jpg" alt="bayu prasetyo">
               </div>
-              <h3 class="profil-name">Nurfian</h3>
+              <h3 class="profil-name">Bayu Prasetiyo</h3>
             </div>
             <div class="object-vertical"></div>
           </div>
 
           <div class="motto">
-            <table>
-              <tr>
-                <td>Universitas</td>
-                <td>: Udayana</td>
-              </tr>
-              <tr>
-                <td>Alamat</td>
-                <td>: 9999</td>
-              </tr>
-              <tr>
-                <td>Pengalaman</td>
-                <td>: Front End Development</td>
-              </tr>
-            </table>
+          <table>
+            <tr>
+              <td>Universitas</td>
+              <td>: Universitas Udayana</td>
+            </tr>
+            <tr>
+              <td>TTL</td>
+              <td>: Nabire, 1 February 2001</td>
+            </tr>
+            <tr>
+              <td>Keahlian</td>
+              <td>: Front End Web Development</td>
+            </tr>
+          </table>
 
             <p>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, culpa? Porro atque illo ullam earum iure neque hic pariatur soluta quidem harum tenetur aspernatur, explicabo laboriosam modi sit voluptatem labore!"</p>
           </div>
@@ -159,28 +159,28 @@ const Home = {
           <div class="box-profil">
             <div class="profil">
               <div class="profil-photo">
-                <img src="../public/images/heros/hero-image_4.jpg" alt="">
+                <img src="./images/profil/khairul.jpg" alt="">
               </div>
-              <h3 class="profil-name">Nurfian</h3>
+              <h3 class="profil-name">Khairul Ahyar</h3>
             </div>
             <div class="object-vertical"></div>
           </div>
 
           <div class="motto">
-            <table>
-              <tr>
-                <td>Universitas</td>
-                <td>: Udayana</td>
-              </tr>
-              <tr>
-                <td>Alamat</td>
-                <td>: 9999</td>
-              </tr>
-              <tr>
-                <td>Pengalaman</td>
-                <td>: Front End Development</td>
-              </tr>
-            </table>
+          <table>
+            <tr>
+              <td>Universitas</td>
+              <td>: Cokroaminoto Palopo</td>
+            </tr>
+            <tr>
+              <td>TTL</td>
+              <td>: Tanete Lampe e, 17 April 2002</td>
+            </tr>
+            <tr>
+              <td>Keahlian</td>
+              <td>: Front End Web Development</td>
+            </tr>
+          </table>
             
             <p>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, culpa? Porro atque illo ullam earum iure neque hic pariatur soluta quidem harum tenetur aspernatur, explicabo laboriosam modi sit voluptatem labore!"</p>
           </div>

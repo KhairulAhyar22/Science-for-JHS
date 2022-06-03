@@ -169,9 +169,10 @@
     object-position: center;
 }
 .profil-name {
-    text-align: center;
-    margin-top: 15px;
+    margin: 15px auto 0 auto;
     font-size: 22px;
+    width: 80%;
+    text-align: center;
 }
 .object-vertical {
     height: 100%;
