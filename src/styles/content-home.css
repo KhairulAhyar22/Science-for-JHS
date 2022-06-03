@@ -10,12 +10,14 @@
 .hero {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    width: 1100px;
-    margin: 80px auto 100px auto;
+    max-width: 1100px;
+    width: 100%;
+    margin: 120px auto 100px auto;
 
 }
 .hero-image {
     max-width: 400px;
+    width: 95%;
     object-fit: cover;
     border-radius: 15px;
     display: flex;
@@ -85,7 +87,7 @@
 .list-article {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    gap: 16px;
+    gap: 35px 16px;
 }
 .list-article > article {
     width: 100%;
@@ -122,6 +124,9 @@
     color: rgb(162, 162, 255);
 }
 /*tim pengembang*/
+.container-develop {
+    width: 100%;
+}
 .box-title {
     background-color: rgb(248, 242, 234);
     margin-top: 20px;
@@ -133,18 +138,18 @@
     padding: 15px 0;
 }
 .list-develop {
-    width: 100%;
     width: 1100px;
     margin: 30px auto;
     display: grid;
     grid-template-columns: 1fr 1fr;    
     gap: 30px 15px;
+    width: 100%;
 }
 .develop {
-    width: 100%;
     border-radius: 5px;
     border: 2px solid rgb(0, 0, 70);
     padding: 20px 0;
+    width: 100%;
     display: grid;
     grid-template-columns: 1fr 2fr;
 }

@@ -9,6 +9,9 @@ body {
 .navigation {
     background-color: #01123d;
     box-shadow: 0 8px 16px 0 rgba(49, 49, 49, 0.527);  
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 .nav-inner {
     display: grid;

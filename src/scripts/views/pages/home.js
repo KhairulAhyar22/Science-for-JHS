@@ -69,7 +69,7 @@ const Home = {
               <div class="profil-photo">
                 <img src="../public/images/heros/hero-image_4.jpg" alt="">
               </div>
-              <h3 class="profil-name">Nurfian</h3>
+              <h3 class="profil-name">Nurfian Maulana</h3>
             </div>
             <div class="object-vertical"></div>
           </div>
@@ -78,11 +78,11 @@ const Home = {
             <table>
               <tr>
                 <td>Universitas</td>
-                <td>: Udayana</td>
+                <td>: Bumigora Mataram</td>
               </tr>
               <tr>
-                <td>Alamat</td>
-                <td>: 9999</td>
+                <td>TTL</td>
+                <td>: Surabaya, 1 Juni 1998</td>
               </tr>
               <tr>
                 <td>Keahlian</td>
