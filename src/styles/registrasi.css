@@ -1,0 +1,72 @@
+
+* {
+    box-sizing: border-box;
+    width: auto;
+}
+
+body{
+    background-color:#F66B0E;
+}
+
+h2 {
+    color: #FCF69C;
+    font-family:Arial, Helvetica, sans-serif Bold;
+    font-weight: bolder;
+    letter-spacing: 6px;
+}
+
+p {
+    color: #15133C;
+    font-family:Arial, Helvetica, sans-serif Bold;
+    font-weight: bolder; 
+}
+.form_registrasi {
+	position:relative;
+	background: #15133C;
+	border-radius: 6px;
+    border: white solid 3px;
+	width:300px;
+	margin: 100px auto 50px auto;
+	padding: 20px;
+	text-align: center;
+    /*box-shadow: 3px 3px 3px rgba(245, 242, 242, 0.8);*/
+}
+
+.form_registrasi input {
+	font-family:Arial, Helvetica, sans-serif Bold;
+	outline:1;
+	background: white;
+	border-radius: 5px;
+	width: 80%;
+	border:0;
+	margin: 0 0 15px;
+	padding: 10px;
+	box-sizing: border-box;
+	font-size: 14px;	
+}
+ #btn {
+	width: 40%;
+	max-width:500px;
+	border: white solid 1px;
+	cursor: pointer;
+	background-color: #15133C;
+	margin-top: 4px;
+	color: white;
+	text-transform: uppercase;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	letter-spacing: .1em;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-weight: 20;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	-o-transition: all 0.3s;
+	-ms-transition: all 0.3s;
+	transition: all 0.3s;
+ }
+
+ #btn:hover {
+    background-color:#1a04bd;
+	color: white;
+ }
