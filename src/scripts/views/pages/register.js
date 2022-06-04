@@ -1,7 +1,17 @@
 const Register = {
   async render() {
     return `
-      <h2 style="text-align: center;">This is page register</h2>
+    <div class="form">
+      <form class="login-form">
+        <div class="inner-form">
+          <h2 class="form-title">REGISTRASI</h2>
+          <input type="text" id="username" placeholder="Username" required>
+          <input type="email" id="email" placeholder="Email" required>
+          <input type="password" id="password" placeholder="Password" required>
+          <input type="button" id="btn"name="button" value="SUBMIT"> 
+        </div>
+      </form>
+    </div>
     `;
   },
   
