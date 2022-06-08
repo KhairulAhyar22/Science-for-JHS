@@ -30,7 +30,7 @@
 	padding: 12px;
 	font-size: 14px;	
 }
-#btn {
+#btn, #btnl {
     width: 45%;
     cursor: pointer;
     background-color: #15133C;

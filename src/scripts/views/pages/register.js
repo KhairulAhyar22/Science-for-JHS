@@ -13,10 +13,35 @@ const Register = {
       </form>
     </div>
     `;
+
+    
   },
   
   async afterRender() {
     // Fungsi ini akan dipanggil setelah render()
+    const username = document.getElementById('username');
+    const userEmail = document.getElementById('email');
+    const userPassword = document.getElementById('password');
+    const btn = document.getElementById('btn');
+
+    btn.addEventListener('click', async() => {
+      const dataRegis = {
+        userName: username.value,
+        email: userEmail.value,
+        password: userPassword.value,
+      };
+
+      const response = await fetch('http://localhost:5000/regis', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(dataRegis),
+      });
+      const responsejson = await response.json();
+      console.log(responsejson);
+    });
+
   },
 };
   
