@@ -1,6 +1,7 @@
 import Drawer from "../utils/drawer";
 import UrlParser from "../routes/url-parser";
 import routes from "../routes/routes";
+import login from "../utils/login-validat";
 
 class App {
   constructor({ button, drawer, content }) {
@@ -23,6 +24,7 @@ class App {
     const url = UrlParser.parseActiveUrlWithCombiner();
     const page = routes[url];
     this.Content.innerHTML = await page.render();
+    await page.afterRender();
   }
 };
  
