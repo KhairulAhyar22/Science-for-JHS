@@ -1,6 +1,30 @@
+import drawer from "../../utils/drawer";
 const Home = {
   async render() {
     return `
+  <header>
+    <div class="navigation">
+      <div class="nav-inner">
+        <div class="humberger-menu">
+          <button id="hamburgerButton">☰</button>
+        </div>
+        <!--Object satu-->
+        <div class="logo">
+          <h1>Eazy Learn</h1>
+        </div>
+        <!--Object dua-->
+        <div class="menu">
+          <ul id="drawer" class="nav_list">
+            <li><a href="#/home">Home</a></li>
+            <li><a href="#/login">Login</a></li>
+            <li><a href="#/register">Register</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
     <div class="container">
     <!--Hero-->
     <div class="hero">
@@ -62,6 +86,7 @@ const Home = {
       <div class="box-title">
         <h2 class="develop-title">Tim Pengembang</h2>
       </div>
+      
       <div class="list-develop">
         <div class="develop">
           <div class="box-profil">
@@ -182,17 +207,19 @@ const Home = {
             </tr>
           </table>
             
-            <p>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, culpa? Porro atque illo ullam earum iure neque hic pariatur soluta quidem harum tenetur aspernatur, explicabo laboriosam modi sit voluptatem labore!"</p>
+              <p>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, culpa? Porro atque illo ullam earum iure neque hic pariatur soluta quidem harum tenetur aspernatur, explicabo laboriosam modi sit voluptatem labore!"</p>
+            </div>
           </div>
         </div>
       </div>
+      
     </div>
-  </div>
+  </main>
     `;
   },
   
   async afterRender() {
-    // Fungsi ini akan dipanggil setelah render()
+    drawer();
   },
 };
   

@@ -2,13 +2,10 @@ import 'regenerator-runtime';
 import '../styles/style.css';
 import '../styles/content-home.css';
 import '../styles/responsive.css';
+import '../styles/list-class.css';
 import App from './views/app';
 
-const app = new App({
-  button: document.querySelector('#hamburgerButton'),
-  drawer: document.querySelector('#drawer'),
-  content: document.querySelector('#main-content'),
-});
+const app = new App(document.querySelector('#main-content'));
 
 window.addEventListener('hashchange', () => {
   app.renderPage();

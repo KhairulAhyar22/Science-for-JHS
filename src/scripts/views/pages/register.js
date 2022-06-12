@@ -1,23 +1,49 @@
+import drawer from "../../utils/drawer";
 const Register = {
   async render() {
     return `
-    <div class="form">
-      <form class="login-form">
-        <div class="inner-form">
-          <h2 class="form-title">REGISTRASI</h2>
-          <input type="text" id="username" placeholder="Username" required>
-          <input type="email" id="email" placeholder="Email" required>
-          <input type="password" id="password" placeholder="Password" required>
-          <input type="button" id="btn"name="button" value="SUBMIT"> 
+    <header>
+      <div class="navigation">
+        <div class="nav-inner">
+          <div class="humberger-menu">
+            <button id="hamburgerButton">☰</button>
+          </div>
+          <!--Object satu-->
+          <div class="logo">
+            <h1>Eazy Learn</h1>
+          </div>
+          <!--Object dua-->
+          <div class="menu">
+            <ul id="drawer" class="nav_list">
+              <li><a href="#/home">Home</a></li>
+              <li><a id="login"href="#/login">Login</a></li>
+              <li><a href="#/register">Register</a></li>
+            </ul>
+          </div>
         </div>
-      </form>
-    </div>
+      </div>
+    </header>
+
+    <main>
+      <div class="form">
+        <form class="login-form">
+          <div class="inner-form">
+            <h2 class="form-title">REGISTRASI</h2>
+            <input type="text" id="username" placeholder="Username" required>
+            <input type="email" id="email" placeholder="Email" required>
+            <input type="password" id="password" placeholder="Password" required>
+            <input type="button" id="btn"name="button" value="SUBMIT"> 
+          </div>
+        </form>
+      </div>
+    </main>
     `;
 
     
   },
   
   async afterRender() {
+    drawer();
     // Fungsi ini akan dipanggil setelah render()
     const username = document.getElementById('username');
     const userEmail = document.getElementById('email');
