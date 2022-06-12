@@ -3,6 +3,8 @@ import '../styles/style.css';
 import '../styles/content-home.css';
 import '../styles/responsive.css';
 import '../styles/list-class.css';
+import '../styles/matapelajaran.css';
+import '../styles/about-us.css';
 import App from './views/app';
 
 const app = new App(document.querySelector('#main-content'));

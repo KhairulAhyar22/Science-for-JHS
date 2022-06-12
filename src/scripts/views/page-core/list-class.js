@@ -53,7 +53,7 @@ const Listclass = {
               <img class="image-class" src="./images/Kelas 3 smp.png" alt="1">
               <div class="box-detail-class">
                 <div class="box-center">
-                  <a class="more-detail-class"href="#/kelas3">Lihat Kelas</a>
+                  <a class="more-detail-class"href="#/kelastiga">Lihat Kelas</a>
                 </div>
               </div>
             </div>
