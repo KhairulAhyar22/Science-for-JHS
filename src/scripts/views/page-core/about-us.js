@@ -27,189 +27,188 @@ const Aboutus = {
     
     <main>
     <div class="container">
-    <div class="description-app box-color-dark">
-      <div class="inner-description-app">
-        <h2 class="title">Information</h2>
-        <p class="detail-description">Aplikasi ini adalah aplikasi untuk capstone project yang dibangun oleh 4 orang dari universitas yang berbeda, dalam pembuatanya banyak lika liku. Berikut biodata tim kami:</p>
+      <div class="description-app box-color-dark">
+        <div class="inner-description-app">
+          <h2 class="title">Information</h2>
+          <p class="detail-description">Aplikasi ini adalah aplikasi untuk capstone project yang dibangun oleh 4 orang dari universitas yang berbeda, dalam pembuatanya banyak lika liku. Berikut biodata tim kami:</p>
+        </div>
       </div>
-    </div>
 
-    <div class="list-bio-tim">
-      <div class="inner-bio-tim">
-        <div class="picture">
-          <img class="image-tim"src="./images/tim/bayu.png" alt="bayu">
-          <div class="sosmed">
-            <!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="ig">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WhatsApp_icon.png/598px-WhatsApp_icon.png?20200503174721" alt="wa">-->
+      <div class="list-bio-tim">
+        <div class="bio-tim">
+          <div class="inner-bio-tim">
+            <div class="picture">
+              <img class="image-tim" src="./images/tim/bayu.png" alt="bayu">
+            </div>
+            
+            <div class="detail-biodata">
+              <h3 class="title-desc-tim">Detail</h3>
+              <hr>
+              <table>
+                <tr>
+                  <td><strong>Nama</strong></td>
+                  <td>: Bayu Prasetyo</td>
+                </tr>
+                <tr>
+                  <td><strong>Tgl</strong></td>
+                  <td>: 14 mei 2012</td>
+                </tr>
+                <tr>
+                  <td><strong>Alamat</strong></td>
+                  <td>: Irian</td>
+                </tr>
+                <tr>
+                  <td><strong>Agama</strong></td>
+                  <td>: Islam</td>
+                </tr>
+                <tr>
+                  <td><strong>Hp</strong></td>
+                  <td>: 08123456789</td>
+                </tr>
+                <tr>
+                  <td><strong>IG</strong></td>
+                  <td>: bayu_prsty</td>
+                </tr>
+              </table>
+
+              <h3 class="title-desc-tim">Motto</h3>
+              <hr>
+              <p>"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat dolorem a, animi architecto fuga voluptates corporis quibusdam hic sequi temporibus delectus sint recusandae itaque doloribus nesciunt debitis voluptatem magni nobis."</p>
+            </div> 
           </div>
         </div>
-        
-        <div class="detail-biodata">
-          <h3>Detail</h3>
-          <hr>
-          <table>
-            <tr>
-              <td><strong>Nama</strong></td>
-              <td>:</td>
-              <td>Bayu Prasetyo</td>
-            </tr>
-            <tr>
-              <td><strong>Tgl</strong></td>
-              <td>:</td>
-              <td>14 mei 2012</td>
-            </tr>
-            <tr>
-              <td><strong>Alamat</strong></td>
-              <td>:</td>
-              <td>Irian</td>
-            </tr>
-            <tr>
-              <td><strong>Agama</strong></td>
-              <td>:</td>
-              <td>Islam</td>
-            </tr>
-            <tr>
-              <td><strong>Hp</strong></td>
-              <td>:</td>
-              <td>08123456789</td>
-            </tr>
-          </table>
-        </div>
-      </div>
-    </div>
 
-    <div class="list-bio-tim">
-      <div class="inner-bio-tim box-color-dark">
-        <div class="picture">
-          <img class="image-tim"src="./images/tim/bayu.png" alt="bayu">
-          <div class="sosmed">
-            <!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="ig">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WhatsApp_icon.png/598px-WhatsApp_icon.png?20200503174721" alt="wa">-->
+        <div class="bio-tim box-color-dark">
+          <div class="inner-bio-tim">
+            <div class="picture">
+              <img class="image-tim" src="./images/tim/khairul.png" alt="bayu">
+            </div>
+            
+            <div class="detail-biodata">
+              <h3 class="title-desc-tim">Detail</h3>
+              <hr>
+              <table>
+                <tr>
+                  <td><strong>Nama</strong></td>
+                  <td>: Bayu Prasetyo</td>
+                </tr>
+                <tr>
+                  <td><strong>Tgl</strong></td>
+                  <td>: 14 mei 2012</td>
+                </tr>
+                <tr>
+                  <td><strong>Alamat</strong></td>
+                  <td>: Irian</td>
+                </tr>
+                <tr>
+                  <td><strong>Agama</strong></td>
+                  <td>: Islam</td>
+                </tr>
+                <tr>
+                  <td><strong>Hp</strong></td>
+                  <td>: 08123456789</td>
+                </tr>
+                <tr>
+                  <td><strong>IG</strong></td>
+                  <td>: bayu_prsty</td>
+                </tr>
+              </table>
+
+              <h3 class="title-desc-tim">Motto</h3>
+              <hr>
+              <p>"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat dolorem a, animi architecto fuga voluptates corporis quibusdam hic sequi temporibus delectus sint recusandae itaque doloribus nesciunt debitis voluptatem magni nobis."</p>
+            </div> 
           </div>
         </div>
-        
-        <div class="detail-biodata">
-          <h3>Detail</h3>
-          <hr>
-          <table>
-            <tr>
-              <td><strong>Nama</strong></td>
-              <td>:</td>
-              <td>Bayu Prasetyo</td>
-            </tr>
-            <tr>
-              <td><strong>Tgl</strong></td>
-              <td>:</td>
-              <td>14 mei 2012</td>
-            </tr>
-            <tr>
-              <td><strong>Alamat</strong></td>
-              <td>:</td>
-              <td>Irian</td>
-            </tr>
-            <tr>
-              <td><strong>Agama</strong></td>
-              <td>:</td>
-              <td>Islam</td>
-            </tr>
-            <tr>
-              <td><strong>Hp</strong></td>
-              <td>:</td>
-              <td>08123456789</td>
-            </tr>
-          </table>
-        </div>
-      </div>
-    </div>
 
-    <div class="list-bio-tim">
-      <div class="inner-bio-tim">
-        <div class="picture">
-          <img class="image-tim"src="./images/tim/khairul.png" alt="bayu">
-          <div class="sosmed">
-            <!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="ig">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WhatsApp_icon.png/598px-WhatsApp_icon.png?20200503174721" alt="wa">-->
+        <div class="bio-tim">
+          <div class="inner-bio-tim">
+            <div class="picture">
+              <img class="image-tim" src="./images/tim/mustika.png" alt="bayu">
+            </div>
+            
+            <div class="detail-biodata">
+              <h3 class="title-desc-tim">Detail</h3>
+              <hr>
+              <table>
+                <tr>
+                  <td><strong>Nama</strong></td>
+                  <td>: Bayu Prasetyo</td>
+                </tr>
+                <tr>
+                  <td><strong>Tgl</strong></td>
+                  <td>: 14 mei 2012</td>
+                </tr>
+                <tr>
+                  <td><strong>Alamat</strong></td>
+                  <td>: Irian</td>
+                </tr>
+                <tr>
+                  <td><strong>Agama</strong></td>
+                  <td>: Islam</td>
+                </tr>
+                <tr>
+                  <td><strong>Hp</strong></td>
+                  <td>: 08123456789</td>
+                </tr>
+                <tr>
+                  <td><strong>IG</strong></td>
+                  <td>: bayu_prsty</td>
+                </tr>
+              </table>
+
+              <h3 class="title-desc-tim">Motto</h3>
+              <hr>
+              <p>"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat dolorem a, animi architecto fuga voluptates corporis quibusdam hic sequi temporibus delectus sint recusandae itaque doloribus nesciunt debitis voluptatem magni nobis."</p>
+            </div> 
           </div>
         </div>
-        
-        <div class="detail-biodata">
-          <h3>Detail</h3>
-          <hr>
-          <table>
-            <tr>
-              <td><strong>Nama</strong></td>
-              <td>:</td>
-              <td>Bayu Prasetyo</td>
-            </tr>
-            <tr>
-              <td><strong>Tgl</strong></td>
-              <td>:</td>
-              <td>14 mei 2012</td>
-            </tr>
-            <tr>
-              <td><strong>Alamat</strong></td>
-              <td>:</td>
-              <td>Irian</td>
-            </tr>
-            <tr>
-              <td><strong>Agama</strong></td>
-              <td>:</td>
-              <td>Islam</td>
-            </tr>
-            <tr>
-              <td><strong>Hp</strong></td>
-              <td>:</td>
-              <td>08123456789</td>
-            </tr>
-          </table>
-        </div>
-      </div>
-    </div>
 
-    <div class="list-bio-tim">
-      <div class="inner-bio-tim box-color-dark">
-        <div class="picture">
-          <img class="image-tim"src="./images/tim/mustika.png" alt="bayu">
-          <div class="sosmed">
-            <!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="ig">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WhatsApp_icon.png/598px-WhatsApp_icon.png?20200503174721" alt="wa">-->
+        <div class="bio-tim box-color-dark">
+          <div class="inner-bio-tim">
+            <div class="picture">
+              <img class="image-tim" src="./images/tim/nurfian.png" alt="bayu">
+            </div>
+            
+            <div class="detail-biodata">
+              <h3 class="title-desc-tim">Detail</h3>
+              <hr>
+              <table>
+                <tr>
+                  <td><strong>Nama</strong></td>
+                  <td>: Bayu Prasetyo</td>
+                </tr>
+                <tr>
+                  <td><strong>Tgl</strong></td>
+                  <td>: 14 mei 2012</td>
+                </tr>
+                <tr>
+                  <td><strong>Alamat</strong></td>
+                  <td>: Irian</td>
+                </tr>
+                <tr>
+                  <td><strong>Agama</strong></td>
+                  <td>: Islam</td>
+                </tr>
+                <tr>
+                  <td><strong>Hp</strong></td>
+                  <td>: 08123456789</td>
+                </tr>
+                <tr>
+                  <td><strong>IG</strong></td>
+                  <td>: bayu_prsty</td>
+                </tr>
+              </table>
+
+              <h3 class="title-desc-tim">Motto</h3>
+              <hr>
+              <p>"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat dolorem a, animi architecto fuga voluptates corporis quibusdam hic sequi temporibus delectus sint recusandae itaque doloribus nesciunt debitis voluptatem magni nobis."</p>
+            </div> 
           </div>
         </div>
-        
-        <div class="detail-biodata">
-          <h3>Detail</h3>
-          <hr>
-          <table>
-            <tr>
-              <td><strong>Nama</strong></td>
-              <td>:</td>
-              <td>Bayu Prasetyo</td>
-            </tr>
-            <tr>
-              <td><strong>Tgl</strong></td>
-              <td>:</td>
-              <td>14 mei 2012</td>
-            </tr>
-            <tr>
-              <td><strong>Alamat</strong></td>
-              <td>:</td>
-              <td>Irian</td>
-            </tr>
-            <tr>
-              <td><strong>Agama</strong></td>
-              <td>:</td>
-              <td>Islam</td>
-            </tr>
-            <tr>
-              <td><strong>Hp</strong></td>
-              <td>:</td>
-              <td>08123456789</td>
-            </tr>
-          </table>
-        </div>
+
       </div>
     </div>
-  </div>
     </main>
     `
     ;  
