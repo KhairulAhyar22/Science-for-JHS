@@ -30,7 +30,19 @@ const Kelassatuips = {
         <section class="list-bab">
           <div class="card-menu-bab">
             <img class="picture-menu-bab" src="./images/kelassatu/IPA/1IPA.jpg"  alt=""><img>
-            <a class="detail-menu-bab" href="#/kelas1ipsbab1">Bab 1</a>                                                          
+            <a class="detail-menu-bab" href="#/kelas1ipsbab1">Keadaan Alam dan Aktivitas Penduduk Indonesia</a>                                                          
+          </div>
+          <div class="card-menu-bab">
+            <img class="picture-menu-bab" src="./images/kelassatu/IPA/1IPA.jpg"  alt=""><img>
+            <a class="detail-menu-bab" href="#/kelas1ipsbab2">Keadaan Penduduk Indonesia</a>                                                          
+          </div>
+          <div class="card-menu-bab">
+            <img class="picture-menu-bab" src="./images/kelassatu/IPA/1IPA.jpg"  alt=""><img>
+            <a class="detail-menu-bab" href="#/kelas1ipsbab3">Potensi dan Pemanfaatan Sumber Daya Alam</a>                                                          
+          </div>
+          <div class="card-menu-bab">
+            <img class="picture-menu-bab" src="./images/kelassatu/IPA/1IPA.jpg"  alt=""><img>
+            <a class="detail-menu-bab" href="#/kelas1ipsbab4">Dinamika Interaksi Manusia</a>                                                          
           </div>
         </section>
 

@@ -94,8 +94,8 @@ const Kelas1IpsBab1 = {
     
         </div>
         <div class="box-btn-move-pagebab">
-          <a class="btn-move-pagebab" href="">Sebelumnya</a>
-          <a class="btn-move-pagebab" href="">Selanjutnya</a>
+          <a class="btn-move-pagebab" href="#/kelassatuips">Sebelumnya</a>
+          <a class="btn-move-pagebab" href="#/kelas1ipsbab2">Selanjutnya</a>
         </div>
       </div>
     </div>
