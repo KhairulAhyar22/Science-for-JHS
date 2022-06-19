@@ -30,7 +30,7 @@
         grid-template-columns: 1fr;
     }
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 700px) {
     .nav-inner {
         width: 100%;
         padding-left: 0;
@@ -73,7 +73,7 @@
         padding: 10px 20px;
     }
 }
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 700px) {
     .humberger-menu {
         display: none;
     }

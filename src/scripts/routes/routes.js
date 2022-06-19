@@ -8,6 +8,16 @@ import Kelasdua from '../views/page-core/kelas-dua';
 import Kelastiga from '../views/page-core/kelas-tiga';
 import Aboutus from '../views/page-core/about-us';
 
+/*mata-pelajaran*/
+import Kelassatuipa from '../views/pages-kelas-satu/ipa-kelas-satu';
+import Kelassatubahasa from '../views/pages-kelas-satu/bahasa-kelas-satu';
+import Kelassatuips from '../views/pages-kelas-satu/ips-kelas-satu';
+import Kelassatupkn from '../views/pages-kelas-satu/pkn-kelas-satu';
+
+/*import materi kelas satu*/
+import Kelas1IpaBab1 from '../views/page-materi/kelas-satu/ipa/ipa-bab1';
+import Kelas1IpsBab1 from '../views/page-materi/kelas-satu/ips/ips-bab1';
+
 const routes = {
     '/': Home,
     '/home': Home,
@@ -19,6 +29,13 @@ const routes = {
     '/kelasdua': Kelasdua,
     '/kelastiga': Kelastiga,
     '/aboutus': Aboutus,
+    '/kelassatuipa': Kelassatuipa,
+    '/kelassatubahasa': Kelassatubahasa,
+    '/kelassatuips': Kelassatuips,
+    '/kelassatupkn': Kelassatupkn,
+
+    '/kelas1ipabab1': Kelas1IpaBab1,
+    '/kelas1ipsbab1': Kelas1IpsBab1
 };
 
 export default routes;

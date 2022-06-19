@@ -71,3 +71,19 @@
 .list-class-reading {
     margin: 20px auto;
 }
+@media screen and (max-width: 900px) {
+    .list-class {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+@media screen and (max-width: 700px) {
+    .list-class {
+        grid-template-columns: 1fr;
+    }
+    .inner-class {
+        padding: 20px;
+    }
+    .container-class {
+        padding: 100px 30px 60px 30px;
+    }
+}

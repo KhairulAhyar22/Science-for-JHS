@@ -34,7 +34,7 @@ const HomeCore = {
       </div>
       <div class="detil-hero">
         <h2 class="description-hero">Belajar dan Perdalam Pengetahuan Anda dengan Mengulas Materi Sekolah Anda</h2>
-        <a href="#/daftarpelajaran" class="button-login">Belajar Sekarang</a>
+        <a href="#/academy" class="button-login">Belajar Sekarang</a>
       </div>
     </div>
 

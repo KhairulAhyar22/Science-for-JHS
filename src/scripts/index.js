@@ -5,6 +5,8 @@ import '../styles/responsive.css';
 import '../styles/list-class.css';
 import '../styles/matapelajaran.css';
 import '../styles/about-us.css';
+import '../styles/list-bab.css';
+import '../styles/materi.css';
 import App from './views/app';
 
 const app = new App(document.querySelector('#main-content'));

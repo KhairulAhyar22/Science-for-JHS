@@ -1,12 +1,14 @@
 
 .box-list-study {
-    width: 1100px;
+    max-width: 1100px;
+    width: 100%;
     margin: 100px auto 50px auto;
     background-color: rgb(248, 242, 234);
 }
 .box-image-teacher {
     overflow: hidden;
     max-height: 400px;
+    width: 100%;
 }
 .image-teacher {
     width: 100%;
@@ -19,6 +21,7 @@
 }
 .detail-list-study > h4 {
     font-size: 22px;
+    margin-bottom: 15px;
 }
 .list-study {
     text-align: center;
@@ -28,7 +31,7 @@
     display: inline-block;
     font-size: 22px;
     padding: 5px 5px 2px 2px;
-    margin: 10px 0;
+    margin-bottom: 10px;
 }
 .item-study > a {
     display: inline-block;
@@ -43,6 +46,7 @@
     max-width: 1100px;
     width: 100%;
     margin: 0 auto 40px auto;
+    padding: 10px 20px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 20px;
@@ -78,3 +82,14 @@
     color: rgb(26, 26, 219);
     text-decoration: underline;
 }
+@media screen and (max-width: 800px){
+    .list-book {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+@media screen and (max-width: 600px){
+    .list-book {
+        grid-template-columns: 1fr;
+    }
+}
+

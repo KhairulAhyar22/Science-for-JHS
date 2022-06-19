@@ -36,10 +36,10 @@ const Kelassatu = {
             <div class="hr"></div>
             <div class="list-study">
               <ul>
-                <li class="item-study"><a href="">Matematika</a></li>
-                <li class="item-study"><a href="">IPA</a></li>
-                <li class="item-study"><a href="">Bahasa Indonesia</a></li>
-                <li class="item-study"><a href="">IPS</a></li>
+                <li class="item-study"><a href="#/kelassatubahasa">Bahasa Indonesia</a></li>
+                <li class="item-study"><a href="#/kelassatuipa">IPA</a></li>
+                <li class="item-study"><a href="#/kelassatupkn">PKN</a></li>
+                <li class="item-study"><a href="#/kelassatuips">IPS</a></li>
               </ul>
             </div>
           </div>
