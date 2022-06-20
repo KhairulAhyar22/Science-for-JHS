@@ -90,7 +90,7 @@ const Aboutus = {
               <table>
               <tr>
                 <td><strong>Nama</strong></td>
-                <td>: Khairul Ahyar</td>
+                <td>: Khairul Ahyar.</td>
               </tr>
               <tr>
                 <td><strong>Tgl</strong></td>
