@@ -15,7 +15,9 @@ import Kelassatuips from '../views/pages-kelas-satu/ips-kelas-satu';
 import Kelassatupkn from '../views/pages-kelas-satu/pkn-kelas-satu';
 
 /*import materi kelas satu*/
-import Kelas1IpaBab1 from '../views/page-materi/kelas-satu/ipa/ipa-bab1';
+import Kelas1IpaBab1 from '../views/page-materi/kelas-satu/ipa/ipa-bab1';/*ipa*/
+import Kelas1IpaBab2 from '../views/page-materi/kelas-satu/ipa/ipa-bab2';
+import Kelas1IpaBab3 from '../views/page-materi/kelas-satu/ipa/ipa-bab3';
 import Kelas1IpsBab1 from '../views/page-materi/kelas-satu/ips/ips-bab1';/*ips*/
 import Kelas1IpsBab2 from '../views/page-materi/kelas-satu/ips/ips-bab2';
 import Kelas1IpsBab3 from '../views/page-materi/kelas-satu/ips/ips-bab3';
@@ -40,6 +42,8 @@ const routes = {
     '/kelassatupkn': Kelassatupkn,
 
     '/kelas1ipabab1': Kelas1IpaBab1,
+    '/kelas1ipabab2': Kelas1IpaBab2,
+    '/kelas1ipabab3': Kelas1IpaBab3,
     '/kelas1ipsbab1': Kelas1IpsBab1,
     '/kelas1ipsbab2': Kelas1IpsBab2,
     '/kelas1ipsbab3': Kelas1IpsBab3,

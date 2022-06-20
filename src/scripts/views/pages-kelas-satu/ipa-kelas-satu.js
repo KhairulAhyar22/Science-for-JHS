@@ -30,23 +30,15 @@ const Kelassatuipa = {
         <section class="list-bab">
           <div class="card-menu-bab">
             <img class="picture-menu-bab" src="./images/kelassatu/IPA/1IPA.jpg"  alt=""><img>
-            <a class="detail-menu-bab" href="#/kelas1ipabab1">Bab 1</a>                                                          
+            <a class="detail-menu-bab" href="#/kelas1ipabab1">Object IPA dan Pengamatannya</a>                                                          
           </div>
           <div class="card-menu-bab">
             <img class="picture-menu-bab" src="./images/kelassatu/IPA/2IPA.jpg"  alt=""><img>
-            <a class="detail-menu-bab" href="#">Bab 2</a>                                                          
+            <a class="detail-menu-bab" href="#/kelas1ipabab2">Klasifikasi Benda</a>                                                          
           </div>
           <div class="card-menu-bab">
             <img class="picture-menu-bab" src="./images/kelassatu/IPA/3IPA.jpg"  alt=""><img>
-            <a class="detail-menu-bab" href="#">Bab 3</a>                                                         
-          </div>
-          <div class="card-menu-bab">
-            <img class="picture-menu-bab" src="./images/kelassatu/IPA/4IPA.jpg"  alt=""><img>
-            <a class="detail-menu-bab" href="#">Bab 4</a>                                                      
-          </div>
-          <div class="card-menu-bab">
-            <img class="picture-menu-bab" src="./images/kelassatu/IPA/5IPA.jpg" alt=""><img>
-            <a class="detail-menu-bab" href="#">Bab 5</a>                                                         
+            <a class="detail-menu-bab" href="#/kelas1ipabab3">Klasifikasi Makhluk Hidup</a>                                                         
           </div>
         </section>
 

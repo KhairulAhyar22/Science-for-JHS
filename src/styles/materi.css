@@ -65,8 +65,14 @@
     line-height: 1.8em;
     margin: 10px 0;
 }
+.img-smb {
+    max-width: 100%;
+}
 .box-sub {
     margin: 20px 0 20px 30px;
+}
+.box-sub1 {
+    margin: 20px 0 20px 15px;
 }
 /*btn-move-pagebab*/
 .box-btn-move-pagebab {
@@ -98,5 +104,6 @@
     }
     .container-materi-bab {
         padding: 0 30px 30px 30px;
+        width: 100%;
     }
 }
