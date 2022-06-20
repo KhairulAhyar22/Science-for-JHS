@@ -40,7 +40,6 @@ const Aboutus = {
             <div class="picture">
               <img class="image-tim" src="./images/tim/bayu.png" alt="bayu">
             </div>
-            <br>
             <div class="detail-biodata">
               <h3 class="title-desc-tim">Detail</h3>
               <hr>
