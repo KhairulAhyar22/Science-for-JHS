@@ -38,7 +38,7 @@ const Aboutus = {
         <div class="bio-tim">
           <div class="inner-bio-tim">
             <div class="picture">
-              <img class="image-tim" src="./images/tim/bayu.png" alt="bayu">
+              <img class="image-tim" src="./images/tim/bayu.png" alt="foto bayu">
             </div>
             
             <div class="detail-biodata">
@@ -73,7 +73,7 @@ const Aboutus = {
 
               <h3 class="title-desc-tim">Motto</h3>
               <hr>
-              <p>"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat dolorem a, animi architecto fuga voluptates corporis quibusdam hic sequi temporibus delectus sint recusandae itaque doloribus nesciunt debitis voluptatem magni nobis."</p>
+              <p>"Mendung tanda-tanda awal turunnya hujan, Mendung bukan berarti mau hujan"</p>
             </div> 
           </div>
         </div>
@@ -81,38 +81,38 @@ const Aboutus = {
         <div class="bio-tim box-color-dark">
           <div class="inner-bio-tim">
             <div class="picture">
-              <img class="image-tim" src="./images/tim/khairul.png" alt="bayu">
+              <img class="image-tim" src="./images/tim/khairul.png" alt="foto khairul">
             </div>
             
             <div class="detail-biodata">
               <h3 class="title-desc-tim">Detail</h3>
               <hr>
               <table>
-                <tr>
-                  <td><strong>Nama</strong></td>
-                  <td>: Bayu Prasetyo</td>
-                </tr>
-                <tr>
-                  <td><strong>Tgl</strong></td>
-                  <td>: 14 mei 2012</td>
-                </tr>
-                <tr>
-                  <td><strong>Alamat</strong></td>
-                  <td>: Irian</td>
-                </tr>
-                <tr>
-                  <td><strong>Agama</strong></td>
-                  <td>: Islam</td>
-                </tr>
-                <tr>
-                  <td><strong>Hp</strong></td>
-                  <td>: 08123456789</td>
-                </tr>
-                <tr>
-                  <td><strong>IG</strong></td>
-                  <td>: bayu_prsty</td>
-                </tr>
-              </table>
+              <tr>
+                <td><strong>Nama</strong></td>
+                <td>: Khairul Ahyar</td>
+              </tr>
+              <tr>
+                <td><strong>Tgl</strong></td>
+                <td>: 17 April 2002</td>
+              </tr>
+              <tr>
+                <td><strong>Alamat</strong></td>
+                <td>: Luwu Utara, Sulawasi Selatan</td>
+              </tr>
+              <tr>
+                <td><strong>Agama</strong></td>
+                <td>: Islam</td>
+              </tr>
+              <tr>
+                <td><strong>Hp</strong></td>
+                <td>: 082194947882</td>
+              </tr>
+              <tr>
+                <td><strong>IG</strong></td>
+                <td>: khairul.ahyar.129</td>
+              </tr>
+            </table>
 
               <h3 class="title-desc-tim">Motto</h3>
               <hr>
@@ -124,7 +124,7 @@ const Aboutus = {
         <div class="bio-tim">
           <div class="inner-bio-tim">
             <div class="picture">
-              <img class="image-tim" src="./images/tim/mustika.png" alt="bayu">
+              <img class="image-tim" src="./images/tim/mustika.png" alt="foto mustika">
             </div>
             
             <div class="detail-biodata">
@@ -133,15 +133,15 @@ const Aboutus = {
               <table>
                 <tr>
                   <td><strong>Nama</strong></td>
-                  <td>: Bayu Prasetyo</td>
+                  <td>: Mustika Anggraini</td>
                 </tr>
                 <tr>
                   <td><strong>Tgl</strong></td>
-                  <td>: 14 mei 2012</td>
+                  <td>: 25 Maret 2000</td>
                 </tr>
                 <tr>
                   <td><strong>Alamat</strong></td>
-                  <td>: Irian</td>
+                  <td>: Jl.Lalar Liang, Taliwang, Sumbawa Barat, Nusa Tenggara Barat</td>
                 </tr>
                 <tr>
                   <td><strong>Agama</strong></td>
@@ -149,11 +149,11 @@ const Aboutus = {
                 </tr>
                 <tr>
                   <td><strong>Hp</strong></td>
-                  <td>: 08123456789</td>
+                  <td>: 082247064256</td>
                 </tr>
                 <tr>
                   <td><strong>IG</strong></td>
-                  <td>: bayu_prsty</td>
+                  <td>: mustika7675</td>
                 </tr>
               </table>
 
@@ -167,7 +167,7 @@ const Aboutus = {
         <div class="bio-tim box-color-dark">
           <div class="inner-bio-tim">
             <div class="picture">
-              <img class="image-tim" src="./images/tim/nurfian.png" alt="bayu">
+              <img class="image-tim" src="./images/tim/nurfian.png" alt="foto nurfian">
             </div>
             
             <div class="detail-biodata">
@@ -176,15 +176,15 @@ const Aboutus = {
               <table>
                 <tr>
                   <td><strong>Nama</strong></td>
-                  <td>: Bayu Prasetyo</td>
+                  <td>: Nurfian Maulana</td>
                 </tr>
                 <tr>
                   <td><strong>Tgl</strong></td>
-                  <td>: 14 mei 2012</td>
+                  <td>:  1 juni 1998</td>
                 </tr>
                 <tr>
                   <td><strong>Alamat</strong></td>
-                  <td>: Irian</td>
+                  <td>:  Mataram, Nusa Tenggara Barat</td>
                 </tr>
                 <tr>
                   <td><strong>Agama</strong></td>
@@ -192,11 +192,11 @@ const Aboutus = {
                 </tr>
                 <tr>
                   <td><strong>Hp</strong></td>
-                  <td>: 08123456789</td>
+                  <td>:  08980194252</td>
                 </tr>
                 <tr>
                   <td><strong>IG</strong></td>
-                  <td>: bayu_prsty</td>
+                  <td>: Nurfian_maulana</td>
                 </tr>
               </table>
 
