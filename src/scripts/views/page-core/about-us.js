@@ -40,34 +40,34 @@ const Aboutus = {
             <div class="picture">
               <img class="image-tim" src="./images/tim/bayu.png" alt="bayu">
             </div>
-            <br>
+            
             <div class="detail-biodata">
               <h3 class="title-desc-tim">Detail</h3>
               <hr>
               <table>
                 <tr>
                   <td><strong>Nama</strong></td>
-                  <td>: Bayu Prasetyo</td>
+                  <td>: Bayu Prasetiyo</td>
                 </tr>
                 <tr>
                   <td><strong>Tgl</strong></td>
-                  <td>: 14 mei 2012</td>
+                  <td>: 1 Februari 2001</td>
                 </tr>
                 <tr>
                   <td><strong>Alamat</strong></td>
-                  <td>: Irian</td>
+                  <td>: Jl. Banjarmasin, Papua</td>
                 </tr>
                 <tr>
                   <td><strong>Agama</strong></td>
-                  <td>: Islam</td>
+                  <td>: Hindu</td>
                 </tr>
                 <tr>
                   <td><strong>Hp</strong></td>
-                  <td>: 08123456789</td>
+                  <td>: 085354179749</td>
                 </tr>
                 <tr>
                   <td><strong>IG</strong></td>
-                  <td>: bayu_prsty</td>
+                  <td>: bayyuprsty_12</td>
                 </tr>
               </table>
 
