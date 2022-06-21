@@ -40,9 +40,12 @@ const Home = {
     <!--Latar Belakang-->
     <div class="description-app">
       <div class="inner-description-app">
-        <h2 class="title">Latar Belakang App</h2>
-        <p class="detail-description">&emsp;&emsp;Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, quia nesciunt, libero voluptatibus dolorem id accusamus repudiandae aperiam ad perspiciatis culpa fugit similique obcaecati itaque ea ex asperiores cumque possimus. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates alias voluptatibus incidunt maiores, sint esse assumenda maxime sequi, quam ut molestias. Quo quidem sit, non voluptatibus nam repellat tenetur ipsa?</p>
-        <p class="detail-description"> &emsp;&emsp;Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, quia nesciunt, libero voluptatibus dolorem id accusamus repudiandae aperiam ad perspiciatis culpa fugit similique obcaecati itaque ea ex asperiores cumque possimus. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates alias voluptatibus incidunt maiores, sint esse assumenda maxime sequi, quam ut molestias. Quo quidem sit, non voluptatibus nam repellat tenetur ipsa?</p>
+        <h2 class="title">Quotes to be Successfull</h2>
+        <p class="detail-description">"Pembelajaran tidak didapat dengan kebetulan, ia harus dicari dengan semangat dan dijalani dengan tekun."</p>
+        <p class="detail-description">"Pengetahuan tidaklah cukup, maka kita harus mengamalkannya. Niat tidaklah cukup, maka kita harus melakukannya."</p>
+        <p class="detail-description">"Jika ingin menimba ilmu sedalam-dalamnya, hendaknya menghormati guru, belajar dengan giat, bersungguh-sungguh, serta berterimakasih pada guru tanpa rasa pamrih."</p>
+        <p class="detail-description">"Belajar memang melelahkan, namun akan lebih melelahkan lagi jika saat ini kamu tidak belajar."</p>
+        <p class="detail-description">"Setiap perjuangan pasti ada hasilnya. Gagal memberi pelajaran, sukses memberi kebahagiaan."</p>
       </div>
     </div>
 
@@ -92,7 +95,7 @@ const Home = {
           <div class="box-profil">
             <div class="profil">
               <div class="profil-photo">
-                <img src="../public/images/heros/hero-image_4.jpg" alt="">
+                <img src="./images/profil/fian.png" alt="foto nurfian">
               </div>
               <h3 class="profil-name">Nurfian Maulana</h3>
             </div>
@@ -114,7 +117,7 @@ const Home = {
                 <td>: Front End Web Development</td>
               </tr>
             </table>
-            <p>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, culpa? Porro atque illo ullam earum iure neque hic pariatur soluta quidem harum tenetur aspernatur, explicabo laboriosam modi sit voluptatem labore!"</p>
+            <p>"Banyak orang yang tidak bertindak karena takut gagal, padahal tidak bertindak adalah kegagalan yang jelas sudah terjadi, Maka berjuanglah demi mencapai titik dimana kau disebut orang yang Sukses"</p>
           </div>
         </div>
 
@@ -122,7 +125,7 @@ const Home = {
           <div class="box-profil">
             <div class="profil">
               <div class="profil-photo">
-                <img src="./images/profil/mustika1.png" alt="">
+                <img src="./images/profil/mustika1.png" alt="foto mustika">
               </div>
               <h3 class="profil-name">Mustika Anggraini</h3>
             </div>
@@ -137,7 +140,7 @@ const Home = {
               </tr>
               <tr>
                 <td>TTL</td>
-                <td>: Sumbawa Barat, 25 April 2000</td>
+                <td>: Sumbawa Barat, 25 Maret 2000</td>
               </tr>
               <tr>
                 <td>Keahlian</td>
@@ -145,7 +148,7 @@ const Home = {
               </tr>
             </table>
 
-            <p>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, culpa? Porro atque illo ullam earum iure neque hic pariatur soluta quidem harum tenetur aspernatur, explicabo laboriosam modi sit voluptatem labore!"</p>
+            <p>"Bersyukur atas apa yang dimiliki, ikhlas atas apa yang terjadi, dan berharap hanya pada yang Maha Kuasa"</p>
           </div>
         </div>
 
@@ -153,7 +156,7 @@ const Home = {
           <div class="box-profil">
             <div class="profil">
               <div class="profil-photo">
-                <img src="./images/profil/bayu1.jpg" alt="bayu prasetyo">
+                <img src="./images/profil/bayu1.jpg" alt="foto bayu">
               </div>
               <h3 class="profil-name">Bayu Prasetiyo</h3>
             </div>
@@ -176,7 +179,7 @@ const Home = {
             </tr>
           </table>
 
-            <p>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, culpa? Porro atque illo ullam earum iure neque hic pariatur soluta quidem harum tenetur aspernatur, explicabo laboriosam modi sit voluptatem labore!"</p>
+            <p>"Janganlah putus asa disaat mengalami penderitaan, Jangan takut mengalami Kegagalan, Orang hebat tidak dihasilkan dari kemudahan, kesenangan, dan kenyamanan. Mereka dibentuk melalui kesulitan, tantangan, dan air mata untuk menjadi sukses dikemudian hari"</p>
           </div>
         </div>
 
@@ -184,7 +187,7 @@ const Home = {
           <div class="box-profil">
             <div class="profil">
               <div class="profil-photo">
-                <img src="./images/profil/khairul.jpg" alt="">
+                <img src="./images/profil/khairul.jpg" alt="foto khairul">
               </div>
               <h3 class="profil-name">Khairul Ahyar</h3>
             </div>
@@ -207,7 +210,7 @@ const Home = {
             </tr>
           </table>
             
-              <p>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, culpa? Porro atque illo ullam earum iure neque hic pariatur soluta quidem harum tenetur aspernatur, explicabo laboriosam modi sit voluptatem labore!"</p>
+              <p>"Memiliki hidup yang baik, hubungan yang baik, dan bermanfaat terhadap lingkungan dan orang disekitar. Tidak menjadi sempurna namun selalu bersyukur terhadap pemberian sang pencipta"</p>
             </div>
           </div>
         </div>

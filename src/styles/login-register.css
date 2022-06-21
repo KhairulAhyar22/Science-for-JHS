@@ -30,6 +30,10 @@
 	padding: 12px;
 	font-size: 14px;	
 }
+#btnl {
+    display: inline-block;
+    border-radius: 3px;
+}
 #btn, #btnl {
     width: 45%;
     cursor: pointer;

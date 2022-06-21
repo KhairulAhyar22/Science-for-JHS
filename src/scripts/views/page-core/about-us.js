@@ -73,7 +73,7 @@ const Aboutus = {
 
               <h3 class="title-desc-tim">Motto</h3>
               <hr>
-              <p>"Mendung tanda-tanda awal turunnya hujan, Mendung bukan berarti mau hujan"</p>
+              <p>"Janganlah putus asa disaat mengalami penderitaan, Jangan takut mengalami Kegagalan, Orang hebat tidak dihasilkan dari kemudahan, kesenangan, dan kenyamanan. Mereka dibentuk melalui kesulitan, tantangan, dan air mata untuk menjadi sukses dikemudian hari"</p>
             </div> 
           </div>
         </div>
@@ -90,7 +90,7 @@ const Aboutus = {
               <table>
               <tr>
                 <td><strong>Nama</strong></td>
-                <td>: Khairul Ahyar.</td>
+                <td>: Khairul Ahyar</td>
               </tr>
               <tr>
                 <td><strong>Tgl</strong></td>
@@ -116,7 +116,7 @@ const Aboutus = {
 
               <h3 class="title-desc-tim">Motto</h3>
               <hr>
-              <p>"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat dolorem a, animi architecto fuga voluptates corporis quibusdam hic sequi temporibus delectus sint recusandae itaque doloribus nesciunt debitis voluptatem magni nobis."</p>
+              <p>"Memiliki hidup yang baik, hubungan yang baik, dan bermanfaat terhadap lingkungan dan orang disekitar. Tidak menjadi sempurna namun selalu bersyukur terhadap pemberian sang pencipta"</p>
             </div> 
           </div>
         </div>
@@ -159,7 +159,7 @@ const Aboutus = {
 
               <h3 class="title-desc-tim">Motto</h3>
               <hr>
-              <p>"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat dolorem a, animi architecto fuga voluptates corporis quibusdam hic sequi temporibus delectus sint recusandae itaque doloribus nesciunt debitis voluptatem magni nobis."</p>
+              <p>"Bersyukur atas apa yang dimiliki, ikhlas atas apa yang terjadi, dan berharap hanya pada yang Maha Kuasa"</p>
             </div> 
           </div>
         </div>
@@ -202,7 +202,7 @@ const Aboutus = {
 
               <h3 class="title-desc-tim">Motto</h3>
               <hr>
-              <p>"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat dolorem a, animi architecto fuga voluptates corporis quibusdam hic sequi temporibus delectus sint recusandae itaque doloribus nesciunt debitis voluptatem magni nobis."</p>
+              <p>"Banyak orang yang tidak bertindak karena takut gagal, padahal tidak bertindak adalah kegagalan yang jelas sudah terjadi, Maka berjuanglah demi mencapai titik dimana kau disebut orang yang Sukses"</p>
             </div> 
           </div>
         </div>

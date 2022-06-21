@@ -41,9 +41,12 @@ const HomeCore = {
     <!--Latar Belakang-->
     <div class="description-app">
       <div class="inner-description-app">
-        <h2 class="title">Latar Belakang App</h2>
-        <p class="detail-description">&emsp;&emsp;Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, quia nesciunt, libero voluptatibus dolorem id accusamus repudiandae aperiam ad perspiciatis culpa fugit similique obcaecati itaque ea ex asperiores cumque possimus. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates alias voluptatibus incidunt maiores, sint esse assumenda maxime sequi, quam ut molestias. Quo quidem sit, non voluptatibus nam repellat tenetur ipsa?</p>
-        <p class="detail-description"> &emsp;&emsp;Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, quia nesciunt, libero voluptatibus dolorem id accusamus repudiandae aperiam ad perspiciatis culpa fugit similique obcaecati itaque ea ex asperiores cumque possimus. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates alias voluptatibus incidunt maiores, sint esse assumenda maxime sequi, quam ut molestias. Quo quidem sit, non voluptatibus nam repellat tenetur ipsa?</p>
+        <h2 class="title">Quotes to be Successfull</h2>
+        <p class="detail-description">"Pembelajaran tidak didapat dengan kebetulan, ia harus dicari dengan semangat dan dijalani dengan tekun."</p>
+        <p class="detail-description">"Pengetahuan tidaklah cukup, maka kita harus mengamalkannya. Niat tidaklah cukup, maka kita harus melakukannya."</p>
+        <p class="detail-description">"Jika ingin menimba ilmu sedalam-dalamnya, hendaknya menghormati guru, belajar dengan giat, bersungguh-sungguh, serta berterimakasih pada guru tanpa rasa pamrih."</p>
+        <p class="detail-description">"Belajar memang melelahkan, namun akan lebih melelahkan lagi jika saat ini kamu tidak belajar."</p>
+        <p class="detail-description">"Setiap perjuangan pasti ada hasilnya. Gagal memberi pelajaran, sukses memberi kebahagiaan."</p>
       </div>
     </div>
 
