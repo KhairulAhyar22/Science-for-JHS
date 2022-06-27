@@ -1,7 +1,8 @@
 import drawer from "../../../../utils/drawer";
+import apiMateri from "../../../../config/api";
 const Kelas1PknBab2 = {
   async render() {
-    const response = await fetch('http://localhost:5000/materi');
+    const response = await fetch(apiMateri);
     const responsejson = await response.json();
     const materi = responsejson.materi;
 

@@ -29,8 +29,20 @@ const Kelassatubahasa = {
       <div class="container">
         <section class="list-bab">
           <div class="card-menu-bab">
-            <img class="picture-menu-bab" src="./images/kelassatu/IPA/1IPA.jpg"  alt=""><img>
-            <a class="detail-menu-bab" href="#/kelas1ipabab1">Bab 1</a>                                                          
+            <img class="picture-menu-bab" src="./images/sampul bab/bhsind/bhsk1.png"  alt=""><img>
+            <a class="detail-menu-bab" href="#/kelas1bahasabab1">Cinta Lingkungan Hidup</a>                                                          
+          </div>
+          <div class="card-menu-bab">
+            <img class="picture-menu-bab" src="./images/sampul bab/bhsind/bhsk1.png"  alt=""><img>
+            <a class="detail-menu-bab" href="#/kelas1bahasabab2">Pengenalan Budaya Indonesia</a>                                                          
+          </div>
+          <div class="card-menu-bab">
+            <img class="picture-menu-bab" src="./images/sampul bab/bhsind/bhsk1.png"  alt=""><img>
+            <a class="detail-menu-bab" href="#/kelas1bahasabab3">Remaja dan Pendidikan Karakter</a>                                                          
+          </div>
+          <div class="card-menu-bab">
+            <img class="picture-menu-bab" src="./images/sampul bab/bhsind/bhsk1.png"  alt=""><img>
+            <a class="detail-menu-bab" href="#/kelas1bahasabab4">Teknologi Tepat Guna</a>                                                          
           </div>
         </section>
 

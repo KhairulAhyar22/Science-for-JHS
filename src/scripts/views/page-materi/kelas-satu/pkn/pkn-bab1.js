@@ -1,7 +1,8 @@
 import drawer from "../../../../utils/drawer";
+import apiMateri from "../../../../config/api";
 const Kelas1PknBab1 = {
   async render() {
-    const response = await fetch('http://localhost:5000/materi');
+    const response = await fetch(apiMateri);
     const responsejson = await response.json();
     const materi = responsejson.materi;
 
@@ -20,8 +21,8 @@ const Kelas1PknBab1 = {
         </div>
         ${pages.page}
         <div class="box-btn-move-pagebab">
-          <a class="btn-move-pagebab" href="#/kelas1pknbab1">Sebelumnya</a>
-          <a class="btn-move-pagebab" href="#/kelas1pknbab3">Selanjutnya</a>
+          <a class="btn-move-pagebab" href="#/kelassatupkn">Sebelumnya</a>
+          <a class="btn-move-pagebab" href="#/kelas1pknbab2">Selanjutnya</a>
         </div>
       </div>
     </div>

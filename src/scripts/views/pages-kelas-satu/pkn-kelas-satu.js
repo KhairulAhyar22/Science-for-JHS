@@ -29,16 +29,20 @@ const Kelassatupkn = {
       <div class="container">
         <section class="list-bab">
           <div class="card-menu-bab">
-            <img class="picture-menu-bab" src="./images/kelassatu/IPA/1IPA.jpg"  alt=""><img>
+            <img class="picture-menu-bab" src="./images/sampul bab/pkn/pknk1.png"  alt=""><img>
             <a class="detail-menu-bab" href="#/kelas1pknbab1">Berkomitmen terhadap Pancasila sebagai Dasar Negara </a>                                                          
           </div>
           <div class="card-menu-bab">
-            <img class="picture-menu-bab" src="./images/kelassatu/IPA/1IPA.jpg"  alt=""><img>
+            <img class="picture-menu-bab" src="./images/sampul bab/pkn/pknk1.png"  alt=""><img>
             <a class="detail-menu-bab" href="#/kelas1pknbab2">Menumbuhkan Kesadaran Berkonstitusi </a>                                                          
           </div>
           <div class="card-menu-bab">
-            <img class="picture-menu-bab" src="./images/kelassatu/IPA/1IPA.jpg"  alt=""><img>
+            <img class="picture-menu-bab" src="./images/sampul bab/pkn/pknk1.png"  alt=""><img>
             <a class="detail-menu-bab" href="#/kelas1pknbab3">Berkomitmen terhadap Pokok Kaidah Negara Fundamenta </a>                                                          
+          </div>
+          <div class="card-menu-bab">
+            <img class="picture-menu-bab" src="./images/sampul bab/pkn/pknk1.png"  alt=""><img>
+            <a class="detail-menu-bab" href="#/kelas1pknbab4">Kepatuhan Terhadap Norma</a>                                                          
           </div>
         </section>
 
