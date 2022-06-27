@@ -36,6 +36,7 @@ const Kelassatu = {
             <div class="hr"></div>
             <div class="list-study">
               <ul>
+                <li class="item-study"><a href="#/kelassatubahasa">Bahasa Indonesia</a></li>
                 <li class="item-study"><a href="#/kelassatuipa">IPA</a></li>
                 <li class="item-study"><a href="#/kelassatupkn">PKN</a></li>
                 <li class="item-study"><a href="#/kelassatuips">IPS</a></li>
