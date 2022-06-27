@@ -29,17 +29,17 @@ const Kelasdua = {
       <div class="container">
         <div class="box-list-study">
           <div class="box-image-teacher">
-            <img class="image-teacher"src="./images/guru.jpg" alt="guru">
+            <img class="image-teacher"src="./images/hero-kelas2.webp" alt="hero kelas 2">
           </div>
           <div class="detail-list-study">
-            <h4>Mata Pelajaran</h4>
+            <h4>Mata Pelajaran  <span style="color: red;">Kelas VIII</span></h4>
             <div class="hr"></div>
             <div class="list-study">
               <ul>
-                <li class="item-study"><a href="">Matematika</a></li>
-                <li class="item-study"><a href="">IPA</a></li>
-                <li class="item-study"><a href="">Bahasa Indonesia</a></li>
-                <li class="item-study"><a href="">IPS</a></li>
+                <li class="item-study"><a href="#/kelasduabahasa">Bahasa Indonesia</a></li>
+                <li class="item-study"><a href="#/kelasduaipa">IPA</a></li>
+                <li class="item-study"><a href="#/kelasduaips">IPS</a></li>
+                <li class="item-study"><a href="#/kelasduapkn">PKN</a></li>
               </ul>
             </div>
           </div>

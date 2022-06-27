@@ -29,17 +29,16 @@ const Kelastiga = {
       <div class="container">
         <div class="box-list-study">
           <div class="box-image-teacher">
-            <img class="image-teacher"src="./images/guru.jpg" alt="guru">
+            <img class="image-teacher"src="./images/hero-kelas3.png" alt="hero kelas 3">
           </div>
           <div class="detail-list-study">
-            <h4>Mata Pelajaran</h4>
+            <h4>Mata Pelajaran <span style="color: red;">Kelas IX</span></h4>
             <div class="hr"></div>
             <div class="list-study">
               <ul>
-                <li class="item-study"><a href="">Matematika</a></li>
-                <li class="item-study"><a href="">IPA</a></li>
-                <li class="item-study"><a href="">Bahasa Indonesia</a></li>
-                <li class="item-study"><a href="">IPS</a></li>
+                <li class="item-study"><a href="#/kelastigabahasa">Bahasa Indonesia</a></li>
+                <li class="item-study"><a href="#/kelastigaipa">IPA</a></li>
+                <li class="item-study"><a href="#/kelastigapkn">PKN</a></li>
               </ul>
             </div>
           </div>

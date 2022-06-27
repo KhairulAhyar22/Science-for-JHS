@@ -29,10 +29,10 @@ const Kelassatu = {
       <div class="container">
         <div class="box-list-study">
           <div class="box-image-teacher">
-            <img class="image-teacher"src="./images/guru.jpg" alt="guru">
+            <img class="image-teacher"src="./images/hero-kelas1.png" alt="hero kelas 1">
           </div>
           <div class="detail-list-study">
-            <h4>Mata Pelajaran</h4>
+            <h4>Mata Pelajaran  <span style="color: red;">Kelas VII</span></h4>
             <div class="hr"></div>
             <div class="list-study">
               <ul>

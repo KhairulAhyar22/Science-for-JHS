@@ -15,13 +15,15 @@
     font-size: 25px;
 }
 .list-class {
+    margin-top: 5px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 35px;
 }
 .box-class {
+    border-radius: 5px;
     overflow: hidden;
-    border: 1px solid #01123d;
+    box-shadow: 0 0 4px rgba(39, 37, 44, 0.479);
 }
 .image-class {
     max-height: 200px;
@@ -41,7 +43,7 @@
 }
 .more-detail-class {
     display: inline-block;
-    padding: 10px 20px;
+    padding: 8px 20px;
     border-radius: 5px;
     background-color: white;
     color: black;
@@ -49,8 +51,7 @@
     font-size: 22px;
 }
 .more-detail-class:hover {
-    background-color: antiquewhite;
-    box-shadow: 0 0 4px antiquewhite ;
+    box-shadow: 0 0 8px antiquewhite ;
 }
 /*list-class-reading*/
 .container-reading-class {

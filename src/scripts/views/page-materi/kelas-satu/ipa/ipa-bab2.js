@@ -8,7 +8,7 @@ const Kelas1IpaBab2 = {
 
     const nav = materi.filter((m) => m.id === "navMateri")[0];
     const objectTarget = materi.filter((m) => m.id === "ipa1b201");
-    const pages = objectTarget.filter((m) => m.id === "ipab201")[0];
+    const pages = objectTarget.filter((m) => m.id === "ipa1b201")[0];
     
     return `
     ${nav.page}
