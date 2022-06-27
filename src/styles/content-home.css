@@ -88,7 +88,7 @@
 .list-article {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    gap: 35px 16px;
+    gap: 35px 20px;
 }
 .list-article > article {
     width: 100%;
@@ -109,11 +109,13 @@
     padding: 15px 25px;
 }
 .article-title {
-    font-size: 25px;
+    font-size: 22px;
     padding: 10PX 0;
 }
 .article-description {
+    margin: 10px 0;
     font-size: 18px;
+    line-height: 1.5em;
 }
 .read-more {
     color: white;

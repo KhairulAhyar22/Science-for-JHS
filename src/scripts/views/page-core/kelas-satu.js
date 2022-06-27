@@ -1,30 +1,12 @@
 import drawer from "../../utils/drawer";
+import apiMateri from "../../config/api";
 const Kelassatu = {
   async render() {
+    const response = await fetch(apiMateri);
+    const responsejson = await response.json();
+    const nav = responsejson.materi.filter((m) => m.id === "navMateri")[0];
     return `
-    <header>
-      <div class="navigation">
-        <div class="nav-inner">
-          <div class="humberger-menu">
-            <button id="hamburgerButton">☰</button>
-          </div>
-          <!--Object satu-->
-          <div class="logo">
-            <h1>Eazy Learn</h1>
-          </div>
-          <!--Object dua-->
-          <div class="menu">
-            <ul id="drawer" class="nav_list">
-              <li><a href="#/homecore">Home</a></li>
-              <li><a href="#/academy">Academy</a></li>
-              <li><a href="#/aboutus">About Us</a></li>
-              <li><a href="#/home">Logout</a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </header>
-    
+    ${nav.page}
     <main>
       <div class="container">
         <div class="box-list-study">
@@ -32,7 +14,7 @@ const Kelassatu = {
             <img class="image-teacher"src="./images/hero-kelas1.png" alt="hero kelas 1">
           </div>
           <div class="detail-list-study">
-            <h4>Mata Pelajaran  <span style="color: red;">Kelas VII</span></h4>
+            <h4 class="tl-mp">Mata Pelajaran  <span style="color: red;">Kelas VII</span></h4>
             <div class="hr"></div>
             <div class="list-study">
               <ul>
