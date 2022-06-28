@@ -53,7 +53,7 @@ const Login = {
       const emaill = document.getElementById('emaill').value;
       const userPassword = document.getElementById('passwordl').value;
 
-      const response = await fetch('http://localhost:5000/regis');
+      const response = await fetch('http://54.255.186.214:5000/regis');
       const responsejson = await response.json();
     
       const arrayLogin = responsejson.data.regis;
@@ -69,14 +69,7 @@ const Login = {
         btnLogin.setAttribute("href", "#/homecore");
         btnLogin.addEventListener('click', function() {
           alert('Login Berhasil');
-        })
-        /*const render = async() => {
-          const content = document.querySelector('#main-content');
-          content.innerHTML = await HomeCore.render();
-          await HomeCore.afterRender();
-        }
-        return render();
-        */
+        });
       }    
     });
   },

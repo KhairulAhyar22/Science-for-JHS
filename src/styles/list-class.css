@@ -1,17 +1,17 @@
 .container-class {
     background-color: rgb(248, 242, 234);
     width: 100%;
-    padding: 120px 60px 60px 60px;
+    padding: 100px 60px 50px 60px;
 }
 .inner-class {
-    padding: 40px 60px;
+    padding: 30px 60px;
     background-color: white;
     border-radius: 10px;
     max-width: 1000px;
     margin: 0 auto;
 }
 .title-class {
-    padding: 20px 0 20px 0;
+    padding: 0 0 20px 0;
     font-size: 25px;
 }
 .list-class {

@@ -1,4 +1,5 @@
 import drawer from "../../utils/drawer";
+import Login from "./login";
 const Register = {
   async render() {
     return `
@@ -57,7 +58,7 @@ const Register = {
         password: userPassword.value,
       };
 
-      const response = await fetch('http://localhost:5000/regis', {
+      const response = await fetch('http://54.255.186.214:5000/regis', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -66,6 +67,12 @@ const Register = {
       });
       const responsejson = await response.json();
       console.log(responsejson);
+      if(dataRegis.userName && dataRegis.email && dataRegis.password){
+        alert('Registrasi Berhasil');
+      };
+      if(dataRegis.userName == "" || dataRegis.email =="" || dataRegis.password == ""){
+        alert('Data Restrasi Belum Lengkap');
+      }
     });
 
   },
