@@ -30,7 +30,7 @@ const Kelassatubahasa = {
 
         <div class="tombol-menu-bab"> 
           <a class="btn-menu-bab" href="#/kelassatu">Kembali</a>
-          <a class="btn-menu-bab" href="">Kunjungi buku</a>
+          <a class="btn-menu-bab" href="https://drive.google.com/file/d/1fb3bbcsMO2qzfJyK1W-6J0wQBv0YQdvY/view?usp=sharing" target="blank">Kunjungi buku</a>
         </div>
       </div>
     </main>

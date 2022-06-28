@@ -30,7 +30,7 @@ const Kelassatupkn = {
 
         <div class="tombol-menu-bab"> 
           <a class="btn-menu-bab" href="#/kelassatu">Kembali</a>
-          <a class="btn-menu-bab" href="">Kunjungi buku</a>
+          <a class="btn-menu-bab" href="https://drive.google.com/file/d/1Zo3MtZcVkcNy8Lyf979H6pEHeX-w2wYx/view?usp=drivesdk" target="blank">Kunjungi buku</a>
         </div>
       </div>
     </main>

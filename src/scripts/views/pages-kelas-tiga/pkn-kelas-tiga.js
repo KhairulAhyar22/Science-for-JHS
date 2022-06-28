@@ -30,7 +30,7 @@ const Kelastigapkn = {
 
         <div class="tombol-menu-bab"> 
           <a class="btn-menu-bab" href="#/kelastiga">Kembali</a>
-          <a class="btn-menu-bab" href="">Kunjungi buku</a>
+          <a class="btn-menu-bab" href="https://drive.google.com/file/d/1YPHIkow_vYX-6t4J3No0eAqd8BKBWMCK/view?usp=drivesdk" target="blank">Kunjungi buku</a>
         </div>
       </div>
     </main>
