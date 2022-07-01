@@ -1,3 +1,3 @@
-const apiMateri = 'http://54.255.186.214:5000/materi';
+const apiMateri = 'https://app-sjhs.herokuapp.com/materi';
   
 export default apiMateri;

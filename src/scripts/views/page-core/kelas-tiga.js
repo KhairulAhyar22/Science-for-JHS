@@ -53,7 +53,7 @@ const Kelastiga = {
 
           <div class="book">
             <h4>IPS IX</h4>
-            <img src="./images/book-reference/coverips2.png" alt="buku ilmu pengetahuan sosial">
+            <img src="./images/book-reference/coverips3.png" alt="buku ilmu pengetahuan sosial">
             <div class="detail-book">
               <p>Ilmu Pengetahuan Sosial / Kementerian Pendidikan dan Kebudayaan.-- . 
               Jakarta : Kementerian Pendidikan dan Kebudayaan, 
@@ -65,7 +65,7 @@ const Kelastiga = {
 
           <div class="book">
             <h4>PKN IX</h4>
-            <img src="./images/book-reference/coverpkn2.png" alt="buku pendidikan kewarga negaraan">
+            <img src="./images/book-reference/coverpkn3.png" alt="buku pendidikan kewarga negaraan">
             <div class="detail-book">
               <p>Pendidikan Pancasila dan Kewarganegaraan / Kementerian Pendidikan dan 
               Kebudayaan.-- . Jakarta : Kementerian Pendidikan dan Kebudayaan, 2015.
@@ -77,7 +77,7 @@ const Kelastiga = {
 
           <div class="book">
             <h4>Matematika IX</h4>
-            <img src="./images/book-reference/covermtk2.png" alt="buku matematika">
+            <img src="./images/book-reference/covermtk3.png" alt="buku matematika">
             <div class="detail-book">
               <p>Matematika / Kementerian Pendidikan dan Kebudayaan -- Jakarta : Kementerian Pendidikan dan Kebudayaan, 2015.
               vi, 274 hlm : ilus. ; 25 cm.<br>Untuk SMP/MTS Kelas IX Semester1</p>
@@ -87,7 +87,7 @@ const Kelastiga = {
 
           <div class="book">
             <h4>Bahasa Inggris IX</h4>
-            <img src="./images/book-reference/coverbahasain2.png" alt="buku bahasa inggris">
+            <img src="./images/book-reference/coverbahasain3.png" alt="buku bahasa inggris">
             <div class="detail-book">
               <p>Bahasa Inggris, think Globally Act Locally/Kementerian Pendidikan dan 
               Kebudayaan.-- 

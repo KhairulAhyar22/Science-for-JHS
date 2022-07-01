@@ -12,7 +12,7 @@ const Aboutus = {
       <div class="description-app box-color-dark">
         <div class="inner-description-app">
           <h2 class="title">Information</h2>
-          <p class="detail-description">Aplikasi ini adalah aplikasi untuk capstone project yang dibangun oleh 4 orang dari universitas yang berbeda, dalam pembuatanya banyak lika liku. Berikut biodata tim kami:</p>
+          <p> Aplikasi ini merupakan aplikasi pembelajaran gratis yang menyediakan materi-materi yang bersesuaian dengan materi sekolah yang tentunya akan menambah pengetahuan dan pemahaman khususnya siswa  pada jenjang sekolah menengah pertama (SMP)</p>
         </div>
       </div>
 

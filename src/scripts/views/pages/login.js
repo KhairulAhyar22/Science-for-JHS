@@ -10,7 +10,7 @@ const Login = {
           </div>
           <!--Object satu-->
           <div class="logo">
-            <h1>Eazy Learn</h1>
+            <h1>Science JHS</h1>
           </div>
           <!--Object dua-->
           <div class="menu">
@@ -53,7 +53,7 @@ const Login = {
       const emaill = document.getElementById('emaill').value;
       const userPassword = document.getElementById('passwordl').value;
 
-      const response = await fetch('http://54.255.186.214:5000/regis');
+      const response = await fetch('https://app-sjhs.herokuapp.com/regis');
       const responsejson = await response.json();
     
       const arrayLogin = responsejson.data.regis;

@@ -43,13 +43,6 @@ const Listclass = {
         </div>
       </div>
 
-      <div class="container-reading-class">
-      <h4>Kelas Yang di Pelajari</h4>
-      <div class="hr"></div>
-      <div class="list-class-reading">
-        <div class="class-reading"></div>
-      </div>
-
     </div>
     </main>
     `

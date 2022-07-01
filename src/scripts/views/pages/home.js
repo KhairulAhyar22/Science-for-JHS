@@ -10,7 +10,7 @@ const Home = {
         </div>
         <!--Object satu-->
         <div class="logo">
-          <h1>Eazy Learn</h1>
+          <h1>Science JHS</h1>
         </div>
         <!--Object dua-->
         <div class="menu">
@@ -33,7 +33,7 @@ const Home = {
       </div>
       <div class="detil-hero">
         <h2 class="description-hero">Belajar dan Perdalam Pengetahuan Anda dengan Mengulas Materi Sekolah Anda</h2>
-        <a href="#/register" class="button-login">Belajar Sekarang</a>
+        <a href="#/login" class="button-login">Belajar Sekarang</a>
       </div>
     </div>
 

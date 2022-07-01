@@ -18,7 +18,6 @@ const Kelas2IpaBab4 = {
       <div class="inner-container-bab">
         <div class="btn-detail-bab">
           <a class="go-materi" href="#/kelasduaipa">Lihat Materi</a>
-          <button class="tandai-materi" href="">Tandai Dipelajari</button>
         </div>
         ${pages.page}
         <div class="box-btn-move-pagebab">

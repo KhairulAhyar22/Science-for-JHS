@@ -17,9 +17,8 @@ const Kelas1IpaBab1 = {
       <div class="inner-container-bab">
         <div class="btn-detail-bab">
           <a class="go-materi" href="#/kelassatuipa">Lihat Materi</a>
-          <button class="tandai-materi" href="">Tandai Dipelajari</button>
         </div>
-        ${pages.page}
+        ${pages.page}</div>
         <div class="box-btn-move-pagebab">
           <a class="btn-move-pagebab" href="#/kelassatuipa">Sebelumnya</a>
           <a class="btn-move-pagebab" href="#/kelas1ipabab2">Selanjutnya</a>
